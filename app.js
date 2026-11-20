@@ -33,6 +33,7 @@ form.addEventListener('submit', e => {
 });
 
 //window object (global object)
+console.log('hello');
 
 console.log('hello');
 window.console.log('hello'); //this is the same but you dont have to type out windoew, it is inferred
